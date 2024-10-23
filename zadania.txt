@@ -1,0 +1,6 @@
+1 new branch
+2 commit
+3 send
+4 pull & merg
+5 local repo do pull
+6 local rep delet remote brancz i local
