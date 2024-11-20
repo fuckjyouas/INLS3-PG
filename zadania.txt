@@ -1,6 +1,3 @@
-1 new branch
-2 commit
-3 send
-4 pull & merg
-5 local repo do pull
-6 local rep delet remote brancz i local
+na main branch dodaj 4 proste comity w kotrych zostana zmienionce wlasicwosci css. mozna zmieniac po jednej wlasicwosci do jednego elementu
+kazdy zmieniony element html ma btc nowym comitem
+po doaniu 4 comitow wyslij zmiany do githuba
